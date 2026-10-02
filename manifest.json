@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": "cmux-amp",
+  "versions": [
+    {
+      "commit": "55a838c0259d3080f1741dae0d4826ac22d63eba",
+      "parsed_at": "2026-10-02T10:38:47.169003+00:00",
+      "tag": "main",
+      "filetree": "filetree/55a838c0259d3080f1741dae0d4826ac22d63eba.nq.gz",
+      "blobs": [
+        "blob/862ee3c28647e7a58801a75236855c269c1448ae.nq.gz",
+        "blob/39fa5c6acc88c0bc9d99d785fafdea8121a98b62.nq.gz",
+        "blob/9582fc588754f78d9875691a3bd5e674295436b3.nq.gz",
+        "blob/6bccf43368fd7c96d9c659562a5142b8b8cb98a1.nq.gz",
+        "blob/7b6f00c79e2112dd91eec613c648752ed32afb49.nq.gz",
+        "blob/f70b36a7ca07f50bb01a2d14e25d1eac52278a03.nq.gz",
+        "blob/a26495f016b5c89fbacd809caa28712510bac10b.nq.gz",
+        "blob/cca047d50102334bc96dd7add3560a73b6704649.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
