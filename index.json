@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "cmux-amp",
+  "versions": [
+    {
+      "commit": "55a838c0259d3080f1741dae0d4826ac22d63eba",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:45:22.841934+00:00"
+    }
+  ]
+}
